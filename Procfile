@@ -1,1 +1,0 @@
-web: java -jar Email-Assistant-0.0.1-SNAPSHOT.jar
